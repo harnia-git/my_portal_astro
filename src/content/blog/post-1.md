@@ -1,23 +1,21 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "2023年オープンキャンパスオープンラボの様子"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
+date: 2023-07-16T05:00:00Z
+image: "/images/opencampus2023.png"
+categories: ["university event", "Iot"]
+author: "Yoko Maemura"
+tags: ["opencampus", "openlabo"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+前村ゼミでは毎年オープンキャンパスにおいてオープンラボを行っております。今年は4年生3名が各々の卒業研究の取組内容について、来場者の方に発表しました。3年生は誘導と司会進行を担当しました。皆さんとても素晴らしい準備とチームワークでした。怒涛のような一日で、終わった後は数人でまったりと長話をしてcalm downしました。
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## LLM-Rag
 
-## Creative Design
+LLMのAPIを使ったアプリケーションとして県大情報システム学科のRAG作成を狙いましたが叶わず、来年はドメインを検討して再挑戦したいと思います。
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+RAG (Retrieval-Augmented Generation) は、大規模な外部ナレッジベースを活用し、より正確で情報豊富なテキスト生成を可能にする手法です。RAGはLLM（大規模言語モデル）を拡張し、質問に関連する情報をナレッジベースから取得し、その情報を元に回答を生成します。
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+https://github.com/run-llama/llama_index.git

@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: "前村研究室について"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/portlate.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+研究テーマとして「センシング・コンピューティング・ネットワーキングの融合」をかかげ、コミュニケーションの可視化、環境センシングおよび無線ネットワークの開発にとりくんでいます。コミュニケーションの可視化については、ヒトの社会活動の基盤であるコミュニケーションに着目し、日本発のメディアカルチャーで知られる「紙芝居」の場にフォーカスして、演者・観客・舞台の相互作用がおりなす上質なコミュニケーションを理解をめざしています。紙芝居は幼児から高齢者まで広く参加でき、レクレーションに用いられる場面が多くあります。前村研究室では、このようなレクレーションの進行を行うことのできるようなインテリジェンスの開発を目標としています。環境センシングでは、長崎県にとって重要な自然資源である海洋にフォーカスし、海洋センシングのための無線センサネットワークのためのIoTシステムの開発に長崎大学との共同研究として参加しています。

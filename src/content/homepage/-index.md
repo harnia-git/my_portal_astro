@@ -1,9 +1,9 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
-  image: "/images/banner.png"
+  title: "Maemura Laboratory"
+  content: "センシング、コンピューティング、ネットワーキングの技術を活用して、コミュニケーションの可視化、IoTシステム開発などをおこなっています"
+  image: "/images/happa_banner.png"
   button:
     enable: true
     label: "Get Started For Free"
